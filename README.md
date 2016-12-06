@@ -26,6 +26,6 @@ apm install ocarina-dark-syntax
 
 ## Further information
 
-Project page: [http://www.protesilaos.com/ocarina](http://www.protesilaos.com/ocarina)
+Project page: [https://protesilaos.com/ocarina](https://protesilaos.com/ocarina)
 
 Ocarina light version: [https://atom.io/themes/ocarina-syntax](https://atom.io/themes/ocarina-syntax)
